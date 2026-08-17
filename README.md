@@ -1,8 +1,6 @@
-# SIEM Dashboard Development Using ELK Stack
+# SIEM Dashboard Development for Security Event Monitoring Using ELK Stack
 
 ![SIEM Dashboard](assets/dashboard-banner.png)
-
-# SIEM Dashboard Development for Security Event Monitoring Using ELK Stack
 
 ## Overview
 
