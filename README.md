@@ -1,7 +1,9 @@
 # SIEM Dashboard Development for Security Event Monitoring Using ELK Stack
 
 ![SIEM Dashboard](assets/dashboard-banner.png)
-
+<p align="center">
+  <img src="assets/dashboard-banner.png" width="100%">
+</p>
 ## Overview
 
 This project demonstrates the design and implementation of a Security Information and Event Management (SIEM) dashboard using the ELK Stack (Elasticsearch and Kibana).
